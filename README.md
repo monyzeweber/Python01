@@ -1,5 +1,5 @@
 # Projeto Wine Review
- Exploração de dados sobre avaliação de vinhos
+ Exploração dos dados relacionados à avaliação de vinhos
  
  Link para os dados: https://www.kaggle.com/datasets/zynicide/wine-reviews?select=winemag-data-130k-v2.csv
  
